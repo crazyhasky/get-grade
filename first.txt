@@ -1,3 +1,5 @@
 read me
 this is a lab
 goodbye
+hasky
+twoice
